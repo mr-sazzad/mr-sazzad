@@ -1,6 +1,8 @@
-### Hi there i am sazzad👋
 
-- 🌱 I’m currently learning
+  <p align="center">
+    <h1 align="center"> Hi there i am sazzad👋 </h1>
+    <p align="center">- 🌱 I’m currently learning</p>
+  </p>
 
 <div align="center">
   <a href="https://github.com/davidluiz91">
