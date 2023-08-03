@@ -7,12 +7,13 @@
 <div align="center">
   <a href="https://github.com/mr-sazzad">
   <img height="180em" width="47%" src="https://github-readme-stats.vercel.app/api?username=mr-sazzad&show_icons=true&theme=aura"/>
-    <img height="180em" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sazzad&theme=aura&hide_border=false" />
-  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sazzad&layout=compact&langs_count=7&theme=aura"/>
+
 </div>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-sazzad&layout=compact&langs_count=7&theme=aura"/>
+  <a href="https://github.com/mr-sazzad">
+  <img height="180em" margin="20" src="https://github-readme-streak-stats.herokuapp.com/?user=mr-sazzad&theme=aura&hide_border=false" />
 </div>
 
 ### 📋 Some of the tools I love working with
